@@ -1,0 +1,29 @@
+[33mcommit b6d3eff51dfb8a6706e4d17c5dd370f81b632e89[m
+Author: sheng <727495622@qq.com>
+Date:   Wed Apr 22 10:34:44 2015 +0800
+
+    git tracks changes
+
+[33mcommit 98b7c2882eb0f705a705f09d015ab6e4cbf5eb15[m
+Author: sheng <727495622@qq.com>
+Date:   Wed Apr 22 10:28:37 2015 +0800
+
+    understand how stage works
+
+[33mcommit c9f258e7585b36458e3061160fe97b56d8ea754f[m
+Author: sheng <727495622@qq.com>
+Date:   Wed Apr 22 10:13:24 2015 +0800
+
+    append GPL
+
+[33mcommit 66e647b7f2db0e6377eb35093d2ea241f9083ec4[m
+Author: sheng <727495622@qq.com>
+Date:   Wed Apr 22 10:10:45 2015 +0800
+
+    add distributed
+
+[33mcommit bfc4f11c00aaf6d0890eed2185b459bd05deeaa7[m
+Author: sheng <727495622@qq.com>
+Date:   Wed Apr 22 10:02:18 2015 +0800
+
+    wrote a readme file
